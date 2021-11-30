@@ -153,9 +153,6 @@ class _ListPageState extends State<ListPage> {
                       // ),
                     ),
                     Positioned(
-                      right: 0,
-                      top: 20.0,
-                      bottom: 20.0,
                       child: Image.asset(
                         'assets/InstaxMini7plus_Mint_R.png',
                         height: 100.0,
@@ -263,9 +260,6 @@ class _ListPageState extends State<ListPage> {
                       // ),
                     ),
                     Positioned(
-                      right: 0,
-                      top: 20.0,
-                      bottom: 20.0,
                       child: Image.asset(
                         'assets/InstaxMini7plus_Blue_R.png',
                         height: 100.0,
@@ -373,9 +367,6 @@ class _ListPageState extends State<ListPage> {
                       // ),
                     ),
                     Positioned(
-                      right: 0,
-                      top: 20.0,
-                      bottom: 20.0,
                       child: Image.asset(
                         'assets/InstaxMini7plus_Choral_R.png',
                         height: 100.0,
@@ -483,9 +474,6 @@ class _ListPageState extends State<ListPage> {
                       // ),
                     ),
                     Positioned(
-                      right: 0,
-                      top: 20.0,
-                      bottom: 20.0,
                       child: Image.asset(
                         'assets/InstaxMini7plus_Pink_R.png',
                         height: 100.0,
@@ -595,9 +583,6 @@ class _ListPageState extends State<ListPage> {
                       // ),
                     ),
                     Positioned(
-                      right: 0,
-                      top: 20.0,
-                      bottom: 20.0,
                       child: Image.asset(
                         'assets/InstaxMini7plus_Lavender_R.png',
                         height: 100.0,
